@@ -60,9 +60,9 @@ Currently focused on **web development, APIs, and scalable systems**, with hands
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: raushan@anviom.com  
+- 📧 Email: raushanvasistha@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/raushanvasistha  
-- 🌐 Portfolio: (Add if you have)
+- 🌐 Portfolio: https://www.anviom.com/
 
 ---
 
